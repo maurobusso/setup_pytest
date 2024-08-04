@@ -28,7 +28,7 @@ def test_counter_add_multiple_values():
 """
 test for negative numbers
 """
-def test_counter_add_multiple_values():
+def test_counter_add_multiple_values_one_negative():
     counter = Counter()
     counter.add(5)
     counter.add(-3)
